@@ -1,4 +1,4 @@
-- 👋 Hi,I'm Ahmed Hosaam
+- 👋 Hi,I'm Ahmed Hosam
 - I’m interested in AI,UI and Appdev
 - I’m learning Python for now for this sacke
 - I’m very open for any advice or path correction if there is.
