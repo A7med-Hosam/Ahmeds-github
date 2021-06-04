@@ -1,8 +1,6 @@
 - 👋 Hi,I'm Ahmed Hosam
-- I’m interested in AI,UI and Appdev
-- I’m learning Python for now for this sacke
-- I’m very open for any advice or path correction if there is.
-- this is my githum
+- I am learning React Native currently.
+- Interested in AI & ML
 
 <!---
 Ahmeds-github/Ahmeds-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
